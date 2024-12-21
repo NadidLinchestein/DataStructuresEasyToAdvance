@@ -1,0 +1,18 @@
+Q)  What is a Static Array?
+
+A static array is a fixed length container containing n elements, indexable from the range [0, n-1].
+
+
+Q) When & Where is a Static Array used?
+
+- Storing and accessing sequential data.
+- Temporarily storing objects.
+- Used by IO routines as buffers.
+- Lookup tables and inverse Lookup tables
+- Can be used to return multiple values from a function.
+- Used in Dynamic Programming to cache answers to subproblems.
+
+
+Q)  What is a Dynamic Array?
+
+A Dynamic Array can grow and shrink in size.
